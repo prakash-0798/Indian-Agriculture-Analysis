@@ -75,10 +75,6 @@ The dashboard includes an **action-based drill-down**:
 
 This feature enhances usability and makes the dashboard behave like a **multi-page BI app**.
 
-📁 Project File (Download & Open in Tableau Desktop)
-
-🔗 **[Download Tableau Dashboard (.twb)](https://github.com/prakash-0798/Indian-Agriculture-Analysis/blob/main/Indian%20Agriculture(Tableau)/Indian%20Agriculture%20dashboard.twb)**
-
 🛠️ Tools & Techniques Used
 
 | Category | Details |
