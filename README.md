@@ -48,7 +48,7 @@ This project focuses on transforming raw agricultural data into **interactive, i
 - Flood, drought & pest-attack contributions visualized through bubble charts  
 - Seasonal breakdown — Rabi, Kharif & Zaid
 
-  ### **1. Choropleth Map with Multi-Mode Selection**
+**1. Choropleth Map with Multi-Mode Selection**
 The Indian map is fully interactive and supports **multiple data layers** through a dynamic parameter called **“Map Mode”**.  
 Users can switch between:
 
@@ -60,22 +60,20 @@ Users can switch between:
 
 Each selection updates the map instantly using choropleth shading based on state-level metrics.
 
----
-
-🔁  5-Year Slicer (Time Selection)**
+**5-Year Slicer (Time Selection)**
 A custom **5-year rolling slicer** from 2019-2024 allows viewers to explore agricultural metrics across time.  
 This helps analyze **year-to-year trends**, rainfall variations, productivity cycles, and crop shifts.
 
-🕵️‍♂️  Drill-Down Navigation (National → State Summary)**
+**Drill-Down Navigation (National → State Summary)**
 The dashboard includes an **action-based drill-down**:  
 
-✔ On the **Indian Summary** page, clicking any state on the map or list →  
-✔ Automatically navigates to the **State Summary Dashboard**  
-✔ Displays state-specific KPIs, charts, rainfall, farmer type %, revenue, soil distribution etc.
+  On the **Indian Summary** page, clicking any state on the map or list →  
+  Automatically navigates to the **State Summary Dashboard**  
+  Displays state-specific KPIs, charts, rainfall, farmer type %, revenue, soil distribution etc.
 
 This feature enhances usability and makes the dashboard behave like a **multi-page BI app**.
 
-🛠️ Tools & Techniques Used
+**Tools & Techniques Used**
 
 | Category | Details |
 |---------|---------|
@@ -85,7 +83,7 @@ This feature enhances usability and makes the dashboard behave like a **multi-pa
 | Data Prep | Cleaning, Aggregation, Field Calculations |
 
 **Divya Prakash**  
-📍 Mumbai, India  
-📧 deepak.trivedi0798@gmail.com 
+**Mumbai, India** 
+**deepak.trivedi0798@gmail.com** 
 
 
