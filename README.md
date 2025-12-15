@@ -4,38 +4,38 @@ A comprehensive Tableau-based analytical study on **Indian Agriculture**, highli
 
 This project focuses on transforming raw agricultural data into **interactive, insightful, and visually rich dashboards** using Tableau Desktop.
 
-📊 Project Highlights
+**Project Highlights**
 
-✔ Nation-level agricultural performance  
-✔ Production, Sown Area, Farmer %, Rainfall & Revenue KPIs  
-✔ Statewise agricultural indicators  
-✔ Crop-wise profitability & soil-type distribution  
-✔ Climate risk breakdown (Flood, Drought, Pest Attack, etc.)  
-✔ Multi-product visualization showcasing India’s agricultural diversity  
-✔ Clean layouts, custom color palettes & infographic-style storytelling  
-🖼️ Dashboard Screenshots
+  Nation-level agricultural performance  
+  Production, Sown Area, Farmer %, Rainfall & Revenue KPIs  
+  Statewise agricultural indicators  
+  Crop-wise profitability & soil-type distribution  
+  Climate risk breakdown (Flood, Drought, Pest Attack, etc.)  
+  Multi-product visualization showcasing India’s agricultural diversity  
+  Clean layouts, custom color palettes & infographic-style storytelling  
+**Dashboard Screenshots**
 
-⭐ 1. Main Agriculture Dashboard**
+ **1. Main Agriculture Dashboard**
 ![Main Dashboard](https://raw.githubusercontent.com/prakash-0798/Indian-Agriculture-Analysis/main/Indian%20Agriculture(Tableau)/Indian%20Agriculture%20img1.png)
 
-⭐ **2. State-Level Summary Dashboard**
+ **2. State-Level Summary Dashboard**
 ![State Summary](https://raw.githubusercontent.com/prakash-0798/Indian-Agriculture-Analysis/main/Indian%20Agriculture(Tableau)/Indian%20agriculture%20img%202.png)
 
-🧩 Key Insights from the Dashboard
+**Key Insights from the Dashboard**
 
-🌾 **National-level KPIs**
+**National-level KPIs**
 - India produces **₹616 Cr+ tonnes** of agricultural output  
 - **139 Cr hectares** sown area  
 - **₹4.23 Trillion** total agricultural exports  
 - Nation's rainfall average: **1535 mm**  
 - Farmer population: **~51%**
 
-🗺️ **State Agricultural Strength**
+ **State Agricultural Strength**
 - Top producing states: UP, MP, Maharashtra  
 - Revenue distribution across key crops  
 - Variation in marginal, small & large farmer percentages  
 
-🌱 **Crop & Soil Distribution**
+ **Crop & Soil Distribution**
 - Detailed soil-type mapping for:
   - Wheat  
   - Rice  
@@ -44,11 +44,11 @@ This project focuses on transforming raw agricultural data into **interactive, i
   - Maize  
   - Pulses  
 
-🌦️ **Climate Exposure**
+ **Climate Exposure**
 - Flood, drought & pest-attack contributions visualized through bubble charts  
 - Seasonal breakdown — Rabi, Kharif & Zaid
 
-  ### 🗺️ **1. Choropleth Map with Multi-Mode Selection**
+  ### **1. Choropleth Map with Multi-Mode Selection**
 The Indian map is fully interactive and supports **multiple data layers** through a dynamic parameter called **“Map Mode”**.  
 Users can switch between:
 
