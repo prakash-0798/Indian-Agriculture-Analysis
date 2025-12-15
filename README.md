@@ -1,4 +1,4 @@
-# Indian Agriculture Analysis – Tableau Dashboard
+**Indian Agriculture Analysis – Tableau Dashboard**
 
 A comprehensive Tableau-based analytical study on **Indian Agriculture**, highlighting major crops, production patterns, farmer distribution, climate exposure, soil types, state-level summaries, and national agricultural strength.
 
@@ -84,6 +84,7 @@ This feature enhances usability and makes the dashboard behave like a **multi-pa
 
 **Divya Prakash**  
 **Mumbai, India** 
+
 **deepak.trivedi0798@gmail.com** 
 
 
